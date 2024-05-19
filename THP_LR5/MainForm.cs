@@ -20,7 +20,7 @@ namespace THP_LR5
         PrintSum printSum = new PrintSum();
         CalculatePrice calculatePrice = new CalculatePrice();
         MilitaryUnit militaryUnit;
-
+        
         public MainForm()
         {   
             militaryUnit = militaryUnitCreator.create();
@@ -37,7 +37,7 @@ namespace THP_LR5
             }
             AmountPrice.Text = printSum.Print(calculatePrice.Calculate(militaryUnit));
         }
-
+        //Обработчик нажатия на кнопку. Вызывает форму для добавления и изменения.
         private void buttonAdd_Click(object sender, EventArgs e)
         {
             Add_AND_Edit_Form AddForm = new Add_AND_Edit_Form(
