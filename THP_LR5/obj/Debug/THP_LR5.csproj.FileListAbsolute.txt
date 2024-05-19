@@ -1,0 +1,16 @@
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\bin\Debug\THP_LR5.exe.config
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\bin\Debug\THP_LR5.exe
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\bin\Debug\THP_LR5.pdb
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\bin\Debug\Weapons.dll
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\bin\Debug\Logic.pdb
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\bin\Debug\Weapons.pdb
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\obj\Debug\THP_LR5.csproj.AssemblyReference.cache
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\obj\Debug\THP_LR5.MainForm.resources
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\obj\Debug\THP_LR5.Properties.Resources.resources
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\obj\Debug\THP_LR5.csproj.GenerateResource.cache
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\obj\Debug\THP_LR5.csproj.CoreCompileInputs.cache
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\obj\Debug\THP_LR5.csproj.Up2Date
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\obj\Debug\THP_LR5.exe
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\obj\Debug\THP_LR5.pdb
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\bin\Debug\Logic.dll
+C:\Users\kuzak\source\repos\THP_LR5\THP_LR5\obj\Debug\THP_LR5.Add_AND_Edit_Form.resources
