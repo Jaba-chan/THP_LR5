@@ -57,7 +57,7 @@ namespace THP_LR5
             String price = textBoxPrice.Text;
             Weapon addedWeapon;
             if (weight.Length ==0){ weight = "0";}
-            if (price.Length ==0) { price = "0"; }
+            if (price.Length ==0 || Int32.Parse(price) < 0) { price = "0"; }
             if (radioButtonFirearms.Checked )
             {
                 Firearms firearm = firearmsCreator.create(
